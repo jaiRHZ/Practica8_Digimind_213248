@@ -8,10 +8,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <!-- Colors-->
-    <color name="dusty_rose">#C875BA</color>
-    <color name="deeper_rose">#B36BA7</color>
     <color name="colorPrimary">#00ACAC</color>
-    <color name="colorPrimaryDarkk">#018787</color>
-    <color name="Gray">#A39F9F</color>
+    <color name="colorPrimaryDark">#018787</color>
+    <color name="colorAccent">#C875BA</color>
+    <color name="gray">#A39F9F</color>
 </resources>
